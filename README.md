@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis was to build and optimize a neural network/deep learning model that can identify which applicants for funding had the best chance of success in their endeavors. The data used to train the model included information from 34,000 organizations that had previouslt recieved nonprofit funding. The file was composed of the following information:
+The purpose of this analysis was to build and optimize a neural network/deep learning model that can identify which applicants for funding had the best chance of success in their endeavors. The data used to train the model included information from 34,000 organizations that had previously recieved nonprofit funding. The file was composed of the following information:
 
 * EIN and NAME — Identification columns
 * APPLICATION_TYPE — Alphabet Soup application type
